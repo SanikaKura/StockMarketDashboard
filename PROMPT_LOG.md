@@ -102,7 +102,7 @@ What I kept, changed, rejected:
 I ran create-vite@9.3.4
 
 *entry 10: store stock symbol
-Prompt:I have the frontend page up with 'Stock Market Dashboard' in <h1> and a textbox for input, help me write a function to store the inserted stock symbol in react. 
+Prompt:I have the frontend page up with 'Stock Market Dashboard' in h1 div and a textbox for input, help me write a function to store the inserted stock symbol in react. 
 
 Why I chose this prompt: To complete the input form
 
