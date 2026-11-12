@@ -16,7 +16,7 @@ Ensure that Node.js and npm installed.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/SanikaKura/StockMarketDashboard.git
 cd stockMarketDash
 ```
 
